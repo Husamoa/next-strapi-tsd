@@ -10,7 +10,7 @@
   "name": "backend",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Tenis Stołowy Dźwiękowy Admin",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -19,7 +19,7 @@
   },
   "devDependencies": {},
   "author": {
-    "name": "A Strapi developer"
+    "name": "Pawel Bialek"
   },
   "strapi": {
     "uuid": "1f6c538f-b67c-4637-bf7a-1552e2e7ddbc",
